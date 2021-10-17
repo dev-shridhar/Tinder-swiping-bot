@@ -3,9 +3,9 @@ from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import StaleElementReferenceException
 from time import sleep
 
-EMAIL = "sidkulkarnimj@gmail.com"
+EMAIL = "your mail"
 
-PASSWORD = "9881823532"
+PASSWORD = "your password"
 
 chrome_driver_path = "F:/chromedriver.exe"
 
